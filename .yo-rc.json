@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ifs.epdk",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.1",
+    "applicationType": "monolith",
+    "baseName": "EPDK",
+    "packageName": "com.ifs.epdk",
+    "packageFolder": "com/ifs/epdk",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDc5YWYyMTZmY2YzZTQ2M2ZhYTkxZjRiYWU5ZjI0MDVlODZkM2RjYmQ3ZmY4YjBlMDQwNTljNDIzMzcwOWE4ZjhkM2JiOTc1YmU1NGZiOTQ0NzJmMjBmZTcwZTllMmEzOTA5NTUyM2QxNzQwNGE0YTU4ODAzOWQ1ODUwZjcwNjI=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "tr"
+    ]
+  }
+}
